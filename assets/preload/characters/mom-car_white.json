@@ -137,17 +137,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/momCar",
+	"image": "characters/momCar_white",
 	"position": [
-		240,
-		-50
+		420,
+		-880
 	],
-	"healthicon": "mom",
+	"healthicon": "mom_white",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		0,
+		0,
+		0
 	],
 	"camera_position": [
 		-240,
