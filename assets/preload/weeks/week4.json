@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "minus equisde",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"mom",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Really Happy",
+			"icon-mom",
+			[
+				220,
+				120,
+				220
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }
